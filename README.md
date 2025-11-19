@@ -155,5 +155,3 @@ npx ts-node index.ts
 ```
 
 ---
-
-Se quiser, posso gerar automaticamente os arquivos separados ou até lhe ajudar a subir o repositório no GitHub!
