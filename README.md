@@ -138,8 +138,8 @@ console.log('Transportadora:', context.calculate(100));
 ### **1. Clonar o repositório**
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://[github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio](https://github.com/Dudz1100/AtividadeArqSoftware/tree/main)
 ```
 
 ### **2. Instalar dependências**
